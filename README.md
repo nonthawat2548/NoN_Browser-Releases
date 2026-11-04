@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nonthawat2548/NoN_Browser-Releases/releases/latest/download/NoN-Browser.exe"><img src="./assets/download-installer.svg" width="300" alt="ดาวน์โหลดรุ่นติดตั้งล่าสุด — แนะนำสำหรับผู้ใช้ทั่วไป"></a>
+  <a href="https://github.com/nonthawat2548/NoN_Browser-Releases/releases/latest/download/NoN-Browser.exe"><img src="./assets/download-installer.svg" width="300" alt="Download install — แนะนำสำหรับผู้ใช้ทั่วไป"></a>
   &nbsp;
-  <a href="https://github.com/nonthawat2548/NoN_Browser-Releases/releases/latest/download/NoN-Browser-Portable.exe"><img src="./assets/download-portable.svg" width="300" alt="ดาวน์โหลด Portable ล่าสุด — เปิดใช้ได้โดยไม่ต้องติดตั้ง"></a>
+  <a href="https://github.com/nonthawat2548/NoN_Browser-Releases/releases/latest/download/NoN-Browser-Portable.exe"><img src="./assets/download-portable.svg" width="300" alt="ดาวน์โหลด Portable  — เปิดใช้ได้โดยไม่ต้องติดตั้ง"></a>
 </p>
 
 <p align="center">
@@ -33,12 +33,6 @@
 ---
 
 
-<details>
-<summary><strong>มีเวอร์ชันเก่าอยู่แล้ว ต้องดาวน์โหลดจากที่ไหน?</strong></summary>
-
-ตรวจหาอัปเดตได้จากการตั้งค่าในเบราว์เซอร์ หรือใช้ปุ่มดาวน์โหลดด้านบน ซึ่งจะพาไปยังรุ่นล่าสุดเสมอ หากต้องการไฟล์ของรุ่นก่อนหน้า ให้เปิด [รายการรีลีสทั้งหมด](https://github.com/nonthawat2548/NoN_Browser-Releases/releases)
-
-</details>
 
 ---
 
