@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" fill="none">
+<defs>
+  <linearGradient id="hero-bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1020"/><stop offset=".52" stop-color="#14152E"/><stop offset="1" stop-color="#15112D"/></linearGradient>
+  <radialGradient id="hero-glow"><stop stop-color="#7C3AED" stop-opacity=".35"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  <radialGradient id="hero-cyan"><stop stop-color="#22D3EE" stop-opacity=".13"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <pattern id="hero-grid" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="white" fill-opacity=".08"/></pattern>
+  <clipPath id="hero-clip"><rect width="1600" height="420" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#hero-clip)">
+  <rect width="1600" height="420" fill="url(#hero-bg)"/>
+  <ellipse cx="1290" cy="206" rx="490" ry="410" fill="url(#hero-glow)"/>
+  <ellipse cx="1020" cy="-38" rx="480" ry="350" fill="url(#hero-cyan)"/>
+  <rect width="1600" height="420" fill="url(#hero-grid)"/>
+  <path d="M920 420 1170 0M1020 420 1270 0M1120 420 1370 0" stroke="#A78BFA" stroke-opacity=".045" stroke-width="2"/>
+  <ellipse cx="1308" cy="206" rx="244" ry="118" transform="rotate(-25 1308 206)" stroke="#A78BFA" stroke-opacity=".15" stroke-width="2"/>
+  <ellipse cx="1308" cy="206" rx="274" ry="145" transform="rotate(-25 1308 206)" stroke="#67E8F9" stroke-opacity=".07" stroke-width="2"/>
+  <circle cx="1075" cy="307" r="5" fill="#22D3EE"/>
+  <circle cx="1516" cy="114" r="4" fill="#C4B5FD"/>
+  <text x="104" y="83" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="4">MAKE ROOM FOR YOUR EVERYDAY</text>
+  <text x="96" y="183" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-3">NoN Browser</text>
+  <text x="104" y="244" fill="#BDC7DD" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="400">Your browser. Your space.</text>
+  <rect x="104" y="292" width="260" height="48" rx="24" fill="#FFFFFF" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <g fill="#C4B5FD"><path d="M126 307h10v10h-10zm13 0h10v10h-10zm-13 13h10v10h-10zm13 0h10v10h-10z"/></g>
+  <text x="166" y="323" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="1">WINDOWS / 64-BIT</text>
+  <svg x="1154" y="56" width="300" height="300" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <!-- Deep Obsidian-Cobalt Squircle Base -->
+    <linearGradient id="non-base" x1="64" y1="32" x2="448" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141128"/>
+      <stop offset="0.52" stop-color="#24143B"/>
+      <stop offset="1" stop-color="#0D0A19"/>
+    </linearGradient>
+
+    <!-- Ambient Inner Glow -->
+    <radialGradient id="non-aura" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(256 230) rotate(90) scale(230)">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.28"/>
+      <stop offset="0.55" stop-color="#EC4899" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#141128" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Left Pillar Gradient (Cyan -> Azure) -->
+    <linearGradient id="non-left" x1="140" y1="128" x2="196" y2="384" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+
+    <!-- Right Pillar Gradient (Sky -> Indigo) -->
+    <linearGradient id="non-right" x1="316" y1="128" x2="372" y2="384" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FB923C"/>
+      <stop offset="1" stop-color="#F43F5E"/>
+    </linearGradient>
+
+    <!-- Center Diagonal Compass-Ribbon (Pure White -> Ice Cyan) -->
+    <linearGradient id="non-bridge" x1="148" y1="136" x2="364" y2="376" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FEF08A"/>
+      <stop offset="0.5" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+
+    <!-- Orbit Ring Gradient (Represents the 'o' in NoN & Web Globe) -->
+    <linearGradient id="non-orbit" x1="108" y1="310" x2="404" y2="202" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer App Icon Squircle -->
+  <rect x="20" y="20" width="472" height="472" rx="118" fill="url(#non-base)"/>
+  <rect x="20" y="20" width="472" height="472" rx="118" fill="url(#non-aura)"/>
+  <rect x="22" y="22" width="468" height="468" rx="116" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="4"/>
+
+  <!-- Planetary Orbit Ring ('o' in NoN) -->
+  <ellipse cx="256" cy="256" rx="158" ry="68" transform="rotate(-24 256 256)" stroke="url(#non-orbit)" stroke-width="14" stroke-linecap="round"/>
+
+  <!-- Left Wing Pillar of N -->
+  <path d="M138 156C138 139.431 151.431 126 168 126C184.569 126 198 139.431 198 156V356C198 372.569 184.569 386 168 386C151.431 386 138 372.569 138 356V156Z" fill="url(#non-left)"/>
+
+  <!-- Right Wing Pillar of N -->
+  <path d="M314 156C314 139.431 327.431 126 344 126C360.569 126 374 139.431 374 156V356C374 372.569 360.569 386 344 386C327.431 386 314 372.569 314 356V156Z" fill="url(#non-right)"/>
+
+  <!-- Dynamic Diagonal Compass Bridge of N -->
+  <path d="M145 138C156.5 124.5 178.5 123 192 137L367 322C379.5 335.5 377.5 357.5 365 372C353 385.5 331.5 387 318 373L143 188C130.5 174.5 132.5 152.5 145 138Z" fill="url(#non-bridge)"/>
+  
+  
+</svg>
+
+  <rect x="1" y="1" width="1598" height="418" rx="27" stroke="#FFFFFF" stroke-opacity=".12" stroke-width="2"/>
+</g>
+</svg>
